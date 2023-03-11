@@ -1,4 +1,4 @@
-# gerencia_info_pet_shop
+# gerenciador_de_pet_shop
 projeto de programação em java
 
 Faça um programa em Java, orientado a objetos que gerencie as informações de
